@@ -16,6 +16,46 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 <genre>AÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roma[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Uma Batalha no Inferno</info>
+<genre>GUERRA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA A SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Uma Batalha no Inferno[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Uma Batalha no Inferno no G DRIVE</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Batalha no Inferno[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=XOEfLZ3GbX4</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Batalha no Inferno - 1965 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1v_xbAhSlR-afcVSg24046RFdFnKeUfV7/view</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>No final da Segunda Guerra, em dezembro de 1944, o comando das Forças Aliadas já comemora o triunfo sobre as combalidas forças nazistas por toda a Europa. Quando remanescentes do quase derrotado exército nazista planejam um ataque surpresa às forças aliadas, que já não contavam mais com nenhuma reação, um experiente oficial americano alerta seus superiores sobre a possibilidade de uma última ofensiva em massa do inimigo. Esse soldado, experiente, porém desacreditado por seus companheiros, tenta convencer seus superiores a tomarem medidas para impedir a ação. Mas não é ouvido com seriedade. Comandados por um coronel obstinado, os alemães provam que ainda têm poder de fogo e são capazes de dar muito trabalho aos aliados.</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
 <name>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herculoids[/B][/COLOR]</name>
