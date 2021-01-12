@@ -75,43 +75,20 @@ LINKGDRIVE$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Noite
 LINKGDRIVE$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Invasao[/B][/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1elNOlCNoy88aOgA8kHegmyEu29vluUJl/view$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Robin Hood[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1elNOlCNoy88aOgA8kHegmyEu29vluUJl/view$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Morte e um Jogo[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hbMdC9f7PjwMC07PzccXkgVWQVe9zJpP/view$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Mundo Alem das Estrelas[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mZgwm4DdI3qtNyGXWWviw3svNqzhjzIG/view$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Fantasma de Nero[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12YDfXomsoKpvoQ-R5J6ryb_n6-A72RRN/view$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Muralhas de Jerico[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VVYv-msqjxP2yxg8DCNTKQHCCDLL4HD3/view$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Idolo da Morte[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Billy The Kid[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Piratas da Ilha do Morto[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perseguicao Pelo Tempo[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mercador da Morte[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Marco Polo[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E27[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Merlim o Magico[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E28[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Raptores[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E29[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Invasores do Espaco Sideral[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Cidade do Terror[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PQZ2qbHMbmMqFlS2NOo-LfjdG9c2rqNd/view$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Billy The Kid[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Mzm64v9_Zxk9ROLWNFn9AyyWV5En5Ge/view$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Piratas da Ilha do Morto[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S7qfezCEatlSB6vQNAmJEKmI6bf_o6O8/view$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perseguicao Pelo Tempo[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MXX3RGIzvvn-GSQV7w-s4KBLmJEUGyJb/view$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mercador da Morte[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/102QZDn2QK-W1t4uHxdDdp9-AxpVRGbHR/view$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Marco Polo[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16IVEbekWklBnJrwf4olIQIzNLD-GjhpX/view$$lsname=[B]T01E27[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Merlim o Magico[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11nWAxU2dwJoGr4v1Wa5OPLqExHhnEN2v/view$$lsname=[B]T01E28[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Raptores[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13Yh39XCYmqbIdAwnvmgBW_aiPqsPbqUH/view$$lsname=[B]T01E29[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Invasores do Espaco Sideral[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aUSSjOxgzuW_zqj4BXh7hOWSBXx9ZRNf/view$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Cidade do Terror[/B][/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
