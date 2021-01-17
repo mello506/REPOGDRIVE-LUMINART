@@ -1,0 +1,109 @@
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B] SÉRIES DE ÉPICOS NO G DRIVE[/B][/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/VjFtcfW/servidorgdrive-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA SÉRIES DE ÉPICOS NO G DRIVE</info>
+<genre>AÇÃO</genre> 
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roma[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Roma</info>
+<genre>ÉPICOS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Roma[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui a série Roma no G DRIVE</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roma - T01[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=aWzgX3NJkWQ</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roma - T01 - 2005 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-GDBCsJO-Nl1dC5l0pIauLKwVPqtWvB3/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Aguia Roubada[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17l8ayo6uiLeozrCdechn0-dBrKIKbpgn/view?usp=sharing$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Como Tito Pullo Destruiu A Republica[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Cz5FiBa4ACS-r9QPDPlolMAqtOyIJ1qO/view?usp=sharing$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Coruja No Arbusto[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ab80IS6818P6ItZ4YkzqJFZjGBH6MGGx/view?usp=sharing$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roubado De Saturno[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vQnEF6bEN4ALzruzW0VjqurPRu2blvLS/view?usp=sharing$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Ariete Alcancou A Parede[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_PhPEz1HlwBO-7CScOr6fYb8PhT4c_Yx/view?usp=sharing$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Egeria[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uK9G93qRxCoP5zXMVXkUZk7rffpEO3Zw/view?usp=sharing$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Farsalia[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nPUUogjnfXGuPsgYbxKu1KtWXFwkpfT7/view?usp=sharing$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cesarion[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zQtERta1pdrb6npJBCVKDKmIJC9bevf3/view?usp=sharing$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Utica[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14LYkvJ9W7-zl8TRPNLb-Sd4weqxX3hxN/view?usp=sharing$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Triunfo[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IQjA6XVCIS61uFNGJWTV9EbhD9l8PSFB/view?usp=sharing$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Espolios De Guerra[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11mXiR_9ZsHTLFeCGPJ6IqpdGbSFw1A6b/view?usp=sharing$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Primeiros Dias De Fevereiro[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O ano é 52 antes de cristo. Quatrocentos anos depois da fundação da República, Roma é a menos saudável cidade do mundo, uma metrópole cosmopolita com um milhão de habitantes, epicentro de um império preguiçoso. A República foi fundada pelos princípios da divisão de poder e uma feroz competição individual, nunca permitindo que um único homem tivesse o controle absoluto. Mas agora, estes alicerces estão abalados, desgastados pela corrupção e pelos abusos. Depois de oito anos na guerra, os soldados Lucius Vorenus e Titus Pullo são envolvidos, contra a vontade, em eventos históricos que mudariam o rumo da Roma antiga.</info>
+<genre>ÉPICOS</genre>  
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roma - T02[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2I1pNIZgvGc</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roma - T02 - 2007 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18EM-QwpBb9rqUqeezRmtMPcRetDu7Ae8/view?usp=sharing$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Passagem Do Poder [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iFPJ2_nbjajJ06K5Ec_2ytMpVnaIMeUn/view?usp=sharing$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Filho De Plutao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gLmp_4plrSKFvn3W6MrY9p7VhDZ_7YhF/view?usp=sharing$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Estas Sso As Palavras De Marco Tulio Cicero[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e8OpaOobaYcAVOve4YOf8aKAiZXg0I_q/view?usp=sharing$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Tartaruga E A Lebre[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dvSTMhzU8agiyjgY5lZoFhjGY-06_zr9/view?usp=sharing$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herois Da Republica[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11tB-8qTRFzcsRW-TUY_pLCi9SpqSU1dq/view?usp=sharing$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Filipe[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LGO_W-iMWcz14wfW5iEB_Md2f6MWj14P/view?usp=sharing$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mascara Da Morte[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B_XXw19uE4xCxPdmSEmC4TtOLMtreCVm/view?usp=sharing$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Ficcao Necessaria[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nlip3pmPVJ5_2bdt22MPOQJSpTT3fE9s/view?usp=sharing$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nem Deus Consegue Parar Um Homem Faminto[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14qcXHoTjvUldeB8pW7JCw50nNoI_JHVe/view?usp=sharing$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sobre Seu Pai[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O bravo Júlio César foi cruelmente assassinado e a agora a guerra civil ameaça destruir a República. Numa disputa de egos, inúmeros sucessores pleiteiam o cargo deixado por César. É então que Marco Antônio tenta consolidar seu poder se aliando a Atia. O conspirador Brutus tenta ganhar a simpatia do povo, que antes o condenou como assassino. Enquanto isso, Tito Pullo se esforça para tirar seu amigo, Lúcio Voreno, da escuridão que envolveu sua vida após uma tragédia pessoal. </info>
+<genre>ÉPICOS</genre>  
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
