@@ -1,100 +1,158 @@
-<channels></channels>
+<channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Túnel do Tempo[/B][/COLOR]</name>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Seção Túnel do Tempo</info>
-<genre>FICÇÃO</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info></info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[B]FICÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Túnel do Tempo[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE AÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/1A-SERIESDEACAO-OFICIAL</externallink>
+<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui a série Túnel do Tempo no G DRIVE</info>
-<genre>FICÇÃO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>SÉRIES DE AÇÃO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Túnel do Tempo[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=nKbJywWd20U</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE ÉPICOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/E1-SERIESDEEPICOS</externallink>
+<thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
+<fanart>http://bit.do/entrarfanart </fanart>
+<info>SÉRIES DE ÉPICOS</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE GUERRA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3B-SERIESDEGUERRA</externallink>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao trailer</info>
-<genre>FICÇÃO</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>SÉRIES DE GUERRA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Túnel do Tempo - T01 - 1966 - Dublado[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Uy_lCWhpOJqsUOkw8g5Zl5cuu-aE_nps/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Volta ao Passado[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Viagem a Lua[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Fim do Mundo[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Dia em que o Ceu Desabou[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ultima Patrulha[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Dia do Juizo Final[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Presente de Grego[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Massacre[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Na Ilha do Diabo[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Reinado do Terror[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Arma Secreta[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Armadilha Fatal[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Alamo[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Noite da Grande Batalha[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Invasao[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1elNOlCNoy88aOgA8kHegmyEu29vluUJl/view$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Robin Hood[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1elNOlCNoy88aOgA8kHegmyEu29vluUJl/view$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Morte e um Jogo[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hbMdC9f7PjwMC07PzccXkgVWQVe9zJpP/view$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Mundo Alem das Estrelas[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mZgwm4DdI3qtNyGXWWviw3svNqzhjzIG/view$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Fantasma de Nero[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12YDfXomsoKpvoQ-R5J6ryb_n6-A72RRN/view$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Muralhas de Jerico[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VVYv-msqjxP2yxg8DCNTKQHCCDLL4HD3/view$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Idolo da Morte[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PQZ2qbHMbmMqFlS2NOo-LfjdG9c2rqNd/view$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Billy The Kid[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Mzm64v9_Zxk9ROLWNFn9AyyWV5En5Ge/view$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Piratas da Ilha do Morto[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S7qfezCEatlSB6vQNAmJEKmI6bf_o6O8/view$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perseguicao Pelo Tempo[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MXX3RGIzvvn-GSQV7w-s4KBLmJEUGyJb/view$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mercador da Morte[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/102QZDn2QK-W1t4uHxdDdp9-AxpVRGbHR/view$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Marco Polo[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16IVEbekWklBnJrwf4olIQIzNLD-GjhpX/view$$lsname=[B]T01E27[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Merlim o Magico[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11nWAxU2dwJoGr4v1Wa5OPLqExHhnEN2v/view$$lsname=[B]T01E28[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Raptores[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13Yh39XCYmqbIdAwnvmgBW_aiPqsPbqUH/view$$lsname=[B]T01E29[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Invasores do Espaco Sideral[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aUSSjOxgzuW_zqj4BXh7hOWSBXx9ZRNf/view$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Cidade do Terror[/B][/COLOR]</link>
-
-<thumbnail>ICONE</thumbnail>
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE COMÉDIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/FA-SERIESDECOMEDIA</externallink>
+<thumbnail>https://i.ibb.co/4pyT65J/comedia-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Dois cientistas voltam no tempo para tentar proteger um projeto secreto e ficam presos na máquina do tempo, viajando e vivendo diversas aventuras no passado e no futuro.</info>
-<genre>FICÇÃO</genre>  
-</item>
+<info>SÉRIES DE COMÉDIA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE WESTERN[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/GA-SERIESDEWESTERN</externallink>
+<thumbnail>http://bit.do/iconesubcat-western</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIES DE WESTERN</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE AVENTURA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/HA-SERIESDEAVENTURA</externallink>
+<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIES DE AVENTURA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE ANIMAÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/IA-SERIESDEANIMACAO</externallink>
+<thumbnail>http://bit.do/iconesubcat-animacao</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIES DE ANIMAÇÃO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE SUPER HERÓIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/JA-SERIESDESUPERHEROIS</externallink>
+<thumbnail>https://i.ibb.co/jhRSW6S/sub-cat-superherois.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIES DE SUPER HERÓIS</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE CRIME E DRAMA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/C1-SERIESDECRIMEEDRAMA</externallink>
+<thumbnail>https://i.ibb.co/6mmtXhG/crimedrama-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIES DE CRIME E DRAMA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/B1-SERIESDEFICCAOFANTASIA</externallink>
+<thumbnail>https://i.ibb.co/HncMJy0/ficaoefantasia-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIES DE FICÇÃO E FANTASIA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE SUSPENSE E TERROR[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1-SERIESDESUSPENSETERROR</externallink>
+<thumbnail>https://i.ibb.co/106mp2t/suspenseterror-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIES DE SUSPENSE E TERROR </info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
