@@ -96,7 +96,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B] FILMES ÉPICOS[/B][/COLOR]</name>
+<name>[COLOR lime][B] FILMES DE ÉPICOS[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES ÉPICOS ESTÃO AQUI</info>
@@ -1166,11 +1166,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B] FILMES DE CRIME[/B][/COLOR]</name>
+<name>[COLOR lime][B] FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/PNGkSmp/sub-cat-crimedrama.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE CRIME ESTÃO AQUI</info>
-<genre>FILMES DE CRIME</genre>
+<info>OS MELHORES FILMES DE CRIME E DRAMA ESTÃO AQUI</info>
+<genre>FILMES DE CRIME E DRAMA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -1179,7 +1179,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://image.tmdb.org/t/p/original/s5GEd31RA3HYcbVZJsT7MR2d1Hs.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ToBJyqCrXu59wNQSP7hV1Y0TqJ6cfbnD/view</link>
 <info>Em Los Angeles é cometido um assalto no qual são roubados US$ 1,6 milhão de títulos ao portador e três policiais são mortos no assalto. Assim, um detetive da Divisão de Roubo e Homicídio (Al Pacino) assume o caso. Apesar de contar com poucas pistas, de estar lidando com ladrões profissionais além de ter problemas em sua vida pessoal, ele tenta impedir que esta quadrilha continue operando.</info>
-<genre>CRIME</genre>
+<genre>CRIME E DRAMA</genre>
 </item>
 
 <item>
@@ -1188,7 +1188,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://image.tmdb.org/t/p/original/lD1ukTu3oEHMC4lFMt7Xfj0QaQ1.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lraV5HtDXE0pUjX9d6-s7hVfDvIWExHf/view</link>
 <info>John Smith é um misterioso pistoleiro que, após sua última façanha, conhece a cidade de Jericó, no Texas. Um lugar que mais parece uma cidade-fantasma desde que duas violentas gangues expulsaram todas as pessoas decentes. Smith percebe a oportunidade de jogar uma gangue contra a outra e ganhar uma bolada de dinheiro como matador de aluguel. Num jogo perigoso, John toma a lei em suas próprias mãos e arrisca sua vida para realizar o serviço.</info>
-<genre>CRIME</genre>
+<genre>CRIME E DRAMA</genre>
 </item>
 
 <item>
@@ -1197,7 +1197,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://image.tmdb.org/t/p/original/2J7Iat58kTv00580vgQIzrLWP2Q.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ztVCNfajvFp85yCZw7VplKt1nYrvpCmt/view</link>
 <info>João (Fabrício Boliveira) deixa Santo Cristo em busca de uma vida melhor em Brasília. Ele quer deixar o passado repleto de tragédias para trás. Lá, conta com o apoio do primo e traficante Pablo (César Troncoso), com quem passa a trabalhar. Já conhecido como João de Santo Cristo, o jovem se envolve com o tráfico de drogas, ao mesmo tempo em que mantém um emprego como carpinteiro. Em meio a tudo isso, conhece a bela e inquieta Maria Lúcia (Ísis Valverde), filha de um senador (Marcos Paulo), por quem se apaixona loucamente. Os dois começam uma relação marcada pela paixão e pelo romance, mas logo João se verá em meio a uma guerra com o playboy e traficante Jeremias (Felipe Abib), que coloca tudo a perder.</info>
-<genre>CRIME</genre>
+<genre>CRIME E DRAMA</genre>
 </item>
 
 <item>
@@ -1206,7 +1206,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://image.tmdb.org/t/p/original/1MUokmbc3qGXj69R8DyM6etF46Q.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tXvEoX5Qw2lJWeosbJHSVFWJWsEOHSQX/view</link>
 <info>Frank Hamer (Kevin Costner) e Maney Gault (Woody Harrelson) são dois policiais aposentados quando Bonnie e Clyde começam sua onda de assaltos e assassinatos. Porém, quando o FBI se mostra incapaz de capturar os bandidos, eles são recrutados como investigadores especiais para resolver o caso.</info>
-<genre>CRIME</genre>
+<genre>CRIME E DRAMA</genre>
 </item>
 
 <item>
@@ -1215,7 +1215,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://image.tmdb.org/t/p/original/AbRYlvwAKHs0YuyNO6NX9ofq4l6.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/102FJy2FRwzsiQOuFqi219d0w6kALlPU2/view</link>
 <info>Após comemorar 85 anos de idade, o famoso escritor de histórias policiais Harlan Thrombey (Christopher Plummer) é encontrado morto dentro de sua propriedade. Logo, o detetive Benoit Blanc (Daniel Craig) é contratado para investigar o caso e descobre que, entre os funcionários misteriosos e a família conflituosa de Harlan, todos podem ser considerados suspeitos do crime.</info>
-<genre>CRIME</genre>
+<genre>CRIME E DRAMA</genre>
 </item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
