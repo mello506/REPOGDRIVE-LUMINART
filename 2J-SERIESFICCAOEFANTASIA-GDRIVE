@@ -33,7 +33,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FICÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Túnel do Tempo[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Túnel do Tempo[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -55,50 +55,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Túnel do Tempo - T01 - 1966 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Uy_lCWhpOJqsUOkw8g5Zl5cuu-aE_nps/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Volta ao Passado[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Viagem a Lua[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Fim do Mundo[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Dia em que o Ceu Desabou[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ultima Patrulha[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Dia do Juizo Final[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Presente de Grego[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Massacre[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Na Ilha do Diabo[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Reinado do Terror[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Arma Secreta[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Armadilha Fatal[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Alamo[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Noite da Grande Batalha[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Invasao[/B][/COLOR]</link>
-
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z10Lio2AX3zzIj-2FiJOpatzyMqziHW1/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Volta ao Passado[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IqfU6KKOPoSWkwnibF9YUP_WFwz5P0m-/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Viagem a Lua[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DclHx18M0FXf2-HsOvbPMJxAcknEv8Lt/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Fim do Mundo[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aGGBicx7zWRUJOnNfHLBI9tuCBP6kEi3/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Dia em que o Ceu Desabou[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uf_dO6MvVocolDWVZYGaELnE5z0v4hlW/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ultima Patrulha[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13hmXJDyaV4yxDunyoL2sjE_32wBoVgUB/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Dia do Juizo Final[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wqVwpLbSiI0GwB2mvGP-dQE_88I4tqoN/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Presente de Grego[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16pHpl-RN6kP8iySSF9JwVhB2meTGvg6I/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Massacre[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10KKAXlwd4R6cxnLAmVk2N5IdJBh_hHs3/view$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Na Ilha do Diabo[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13UH8Ku5tRWPmz2sKepIfJdHmFWmVeDly/view$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Reinado do Terror[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-QchDrIo7Rro8_8ZgnDn44gA5IkY90Le/view$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Arma Secreta[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ek-eaqd5hzeYFnCNW-6d-5a5oAWZ0jGl/view$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Armadilha Fatal[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bduVZ08FS6H3GQ1Tbq15R6hzx0otyzDA/view$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Alamo[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GE4nS3dO--MsmLe7oaOHZstwLhwzn_uF/view$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Noite da Grande Batalha[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-6hS8GgfsJwVgzjUOnTKmn1B7q2jDeAX/view?usp=sharing$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Invasao[/B][/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1elNOlCNoy88aOgA8kHegmyEu29vluUJl/view$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Robin Hood[/B][/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1elNOlCNoy88aOgA8kHegmyEu29vluUJl/view$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Morte e um Jogo[/B][/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hbMdC9f7PjwMC07PzccXkgVWQVe9zJpP/view$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Mundo Alem das Estrelas[/B][/COLOR]</link>
