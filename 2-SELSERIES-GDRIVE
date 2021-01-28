@@ -20,91 +20,221 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR red][B]SÉRIES DE AÇÃO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/1A-SERIESDEACAO-OFICIAL</externallink>
 <thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIES DE AÇÃO</info>
-</channel>
-</channels>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR lime][B]SÉRIES DE ÉPICOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOGDRIVE-LUMINART/main/2E-SERIESEPICOS-GDRIVE</externallink>
 <thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
 <fanart>http://bit.do/entrarfanart </fanart>
 <info>SÉRIES DE ÉPICOS</info>
-</channel>
-</channels>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR red][B]SÉRIES DE GUERRA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3B-SERIESDEGUERRA</externallink>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIES DE GUERRA</info>
-</channel>
-</channels>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR lime][B]SÉRIES DE COMÉDIA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOGDRIVE-LUMINART/main/2D-SERIESCOMEDIA-GDRIVE</externallink>
 <thumbnail>https://i.ibb.co/4pyT65J/comedia-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIES DE COMÉDIA</info>
-</channel>
-</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os desenhos da Dirk Gently's Holistic Detective Agency no G DRIVE</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uZWQnMlrhcI</link>
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>COMÉDIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency - T01 - 2016 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kLvSPf-u9uEaE6tNSzsMt5IFNyYQxzSu/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Horizontes[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KRf-GxGnk39ALkfgABanBcNx2u8MEOf0/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Achados e perdidos[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eOdQatsxSR4zrL4wXdJyRXhusHnhxAfN/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Entusiastas[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lhIboNtKipElGtCYXGm7LNeWCrTZqkQj/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Watkin[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18kJSczK432oWth-mqvpZpYVZERdS-wfr/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Muito ereto[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tx3SjFgZa_rIt44NkY5XHD6c49XtECDl/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Consertando tudo[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nD8vewgiKBXe-ssb7z_Z1FYb9QZ9g9jh/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sua alma, sua arma[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OnWA38etfoUiLO-a0mDSCRw5c1qTUtAx/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dois caras normais[/B][/COLOR]</link>
+
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Dirk Gently's Holistic Detective Agency é uma serie original da BBC America em parceria com a Netflix criada por Max Landis. Baseada nos livros de mesmo nome de Douglas Adams, é protagonizada por Samuel Barnett e Elijah Wood</info>
+<genre>COMÉDIA</genre>  
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Kevin Can Wait[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/kBnrwVY/kevin1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os desenhos da Kevin Can Wait no G DRIVE</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Kevin Can Wait[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=zej5lKzL-ig</link>
+<thumbnail>https://i.ibb.co/kBnrwVY/kevin1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>COMÉDIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait - T01  2017 - Legendado[/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jmTnaEwYPBGc0pI9hfc0AvG_qrIH1W3U/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GcW-mPVsmjSC6z6ONMLVYBQyXoFbbqYl/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1it5aMZS1Ni56JuRf4d-aDEI36dN2NY8M/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_K2iCDdo63S7GO0fMM7Yw78LxSU53V8v/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S_UmGeg0oe7w9V-0ollpwdSUlhYqZ6w2/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Og3X2r-EgGkUqf6PC8XdPZd-QYIXufZE/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1O-M3uykk6zKL_gNy-uuu9RXsFQWAVC8W/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1laq7n2Q9WaGuhGtoYhmtdpm_Q3iFThQn/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12X4iRQKBBf75N8OpQJdqxKOi9-dLXdHy/view$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10rithAnG3RXqHi0fF_wyS-jPbjnAZH58/view$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W_PXLvnLVghWVP3oojI7oYnKUbZbcchn/view$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1n3iiwraP5dR3XowCqae46LRUUjByL4uQ/view$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e1w_Nu9CKQmJjlG-qCtPk6GN2mY3r-QS/view$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HgWAH4BTLs_95mCcAN2l5un-d0DkJ0Iz/view$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aF2tDWQW69UJFWLQKAyQ0FheRFw1ZgMs/view$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GNCrc3gPlyywLPtlawLNeSthW6G98fos/view$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1byqLyx6BQCeezh-WQFwd2cyyo0tuy04S/view$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L-o3ppfE4y8JO2cOyFcXbzZo7KYtFsym/view$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18Fto0vHdigFdKWQKqCXlaq5Lo0dNsPQV/view$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pRXVw6pjEar2px8oQsRsl-4hRwDBZH4N/view$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IuVU5NGRDrX-OFfsH_WrDgqaR6YO8kZd/view$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1709QK5lCl7aM4sY2ptslmeqVEPEGIodn/view$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kXVJg3SG-Yao177j5_fmfbsoWshqvx6F/view$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JaBCRVS_X7ksqVrvw9mbvqzX4wPjmNmn/view$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/kBnrwVY/kevin1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> Kevin é um policial que acabou de se aposentar e pretende passar mais tempo com sua esposa e três filhos, porém ele descobre que vai enfrentar desafios muito mais difíceis em sua casa do que ele enfrentava nas ruas. A série Kevin Can Wait começa assim , uma comédia familiar engraçada e cativante. </info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait - T02  2018 - Dublado[/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bjuDJ825uco56EqW0n4VGx_uR6OS86yX/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MNap17UxIMVy0vtSDcnpdDWJLchIpCid/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B6ZGqFiq48WiftMWRkajT0QcGwshzxea/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11WLLs45-UdLLVALswdgmBZIhO3r-Q0Qg/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-Bv0oa395HLphzoj7vezJ-ZoRtJAKhHi/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14jW0Gvtvz3RjJRQdVG4002O1l0yFmU1h/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YMPkXbjogHPq5ZHQQoIfSEC9g0GRx8-e/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18-WGyjIr93-PXjT2Bim-Tbwv5DhofoTv/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wrx8qCWenL9ksRsesQxUqav2fnQQMgpe/view$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uPEohmjqZlYJJFKfpSX4CAcOCg_WhN7E/view$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SIk0GM1MBvJseZiCFBnbpyGRGoGmGk8r/view$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14H85d6OxgwtnEE3lJ91kYAry9e2_t4ix/view$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KZaBjBVfFi0NEWcMiUxR-1e-s0tq8Sy_/view$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A-vAWNKYRSYpv_QjneQsxG1NocBITqs5/view$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eJFoK9De9R-KzWI4qByu5EUHj6yoTIlv/view$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sDWltQMF0HVlhAvLzY6L2D7HGzwg2cgZ/view$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VhIpVK6RT7zEjv6MMRcSR7XTiJ_Mw49J/view$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hqVA1DoqNnptwdctxP_OijkGg33HGcxu/view$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PrZTGXjxPJgV1bk1M2NjqYzMwAO_e8am/view$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13hzpK2CIZ63d9wr4jBwT1S_q668RTzp9/view$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S0o3qQmuHEnVwzRaLc1MlSi_6ss6m3gh/view$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ytc6x9trBktB5--eyAOrFHTZ-ISJPcmR/view$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EgGFBgN2_65QFmsPYpVIyt03GbvFqtqh/view$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hfIZTYyT88tkCyrcEjB0fCv5vKL7iBdQ/view$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Can Wait[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/kBnrwVY/kevin1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> Kevin é um policial que acabou de se aposentar e pretende passar mais tempo com sua esposa e três filhos, porém ele descobre que vai enfrentar desafios muito mais difíceis em sua casa do que ele enfrentava nas ruas. A série Kevin Can Wait começa assim , uma comédia familiar engraçada e cativante.</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR lime][B]SÉRIES DE WESTERN[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/GA-SERIESDEWESTERN</externallink>
 <thumbnail>http://bit.do/iconesubcat-western</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIES DE WESTERN</info>
-</channel>
-</channels>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR red][B]SÉRIES DE AVENTURA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/HA-SERIESDEAVENTURA</externallink>
 <thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIES DE AVENTURA</info>
-</channel>
-</channels>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR red][B]SÉRIES DE ANIMAÇÃO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/IA-SERIESDEANIMACAO</externallink>
 <thumbnail>http://bit.do/iconesubcat-animacao</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIES DE ANIMAÇÃO</info>
-</channel>
-</channels>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR red][B]SÉRIES DE SUPER HERÓIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/JA-SERIESDESUPERHEROIS</externallink>
@@ -116,39 +246,36 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR red][B]SÉRIES DE CRIME E DRAMA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/C1-SERIESDECRIMEEDRAMA</externallink>
 <thumbnail>https://i.ibb.co/6mmtXhG/crimedrama-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIES DE CRIME E DRAMA</info>
-</channel>
-</channels>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR lime][B]SÉRIES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOGDRIVE-LUMINART/main/2J-SERIESFICCAOEFANTASIA-GDRIVE</externallink>
 <thumbnail>https://i.ibb.co/HncMJy0/ficaoefantasia-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIES DE FICÇÃO E FANTASIA</info>
-</channel>
-</channels>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR red][B]SÉRIES DE SUSPENSE E TERROR[/B][/COLOR] </name>
 <externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/106mp2t/suspenseterror-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIES DE SUSPENSE E TERROR </info>
-</channel>
-</channels>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
