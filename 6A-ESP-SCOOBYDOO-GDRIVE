@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo - Ordem cronológica[/B][/COLOR]</name>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Longas - Ordem cronológica[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui os Filmes e Desenhos da franquia Scooby-Doo</info>
@@ -381,3 +381,33 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Curtas - Ordem cronológica[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os Filmes e Desenhos da franquia Scooby-Doo</info>
+<genre>ANIMAÇÃO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo em Hollyhood - 1979 - Dublado[/B][/COLOR]</title>
+<thumbnail>https://d29pz51ispcyrv.cloudfront.net/images/I/0Vu2ukZxWKq7A6d9p.XL1024.JPEG</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ng4grrov9GIdabfJy7KWQbhAb9XtkjZN/view</link>
+<info>CONFUSÕES E MISTÉRIO NA MECA DO CINEMA</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo e A Ameaça do Meca-Chorro - 2013 - Dublado[/B][/COLOR]</title>
+<thumbnail>https://en.notrecinema.com/images/cache/scooby-doo-mecha-mutt-menace-affiche_573779_43431.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VNL5xUtHmjeVDEWoFijBwIZ0dOvf8rP_/view</link>
+<info>Scooby-Doo, Fred, Daphne, Velma e Salsicha estão de volta e o principal mistério deles será desvendar o mistério do Mecachorro, um cachorro robô gigante que vem assombrando a família de Melanie.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
