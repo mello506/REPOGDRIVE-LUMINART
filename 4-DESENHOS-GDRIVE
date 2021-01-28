@@ -1,1 +1,477 @@
-HHHHHHHHHHHHHHHHHHHHHH
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<link>NO LINK</link>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR blue][B]DESENHOS NO G DRIVE[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ThT5YFB/cat-desenhos.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista Desenhos no G DRIVE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jonny Quest[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção Jonny Quest</info>
+<genre>DESENHOS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Jonny Quest[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os desenhos Jonny Quest no G DRIVE</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jonny Quest[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TDSa0gR5u9E</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jonny Quest - T01 - 1964 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kaYMzPRZpI93--FQ-x6ka47M5riCA75r/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Misterio dos Homens Lagartos [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YgJAJ3T1zsUaFNL59Ua7F7SE-aLLQE9n/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Foguete Desaparecido [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QbEttTSyY4ocKaQPRbnlh_gl0jWnOm5i/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldicao de Anubis[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xp9Amdw-Lf5OBFdeBBs04ae6qVk1NsP7/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ao soar dos tambores [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13iOLkpKGefO44lHBuYZ4a8a4_UNdpCLq/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Enigma[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12Wvp_J_6QL2UNVdr7GYNklTXXy241roA/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Tesouro do Templo [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tn9JtpSNSFtRMskaNcIgaMnuNvMT0SqO/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aventura em Calcuta [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kZHuGboP4bRxcnNIST7sMpZFbjzHvEjf/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Robo Espiao [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GicNfKvq-79BWQqvkQwBOTFOjsIfzBqq/view$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Tesouro do Templo [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wi8V0FY8Zx5pBtl_PoWqAUIOqWHUKINb/view$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Sombra do Condor [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FQ3h6-YzdeRXIODv9mLbNE5olcvk55-f/view$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Tesouro [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KWNFBbUmFOeUvvEPFhV9Ea2qgWEVNo-M/view$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Magia Negra[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BZ2Cd5uirJuO5a7d7AjK-7bm8a9jgI3-/view$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Pigmeus [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14qgecDW121NnO0k359C89tLE3tVxHVlB/view$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Dragoes de Ashida [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i32FL0D6Z16Rg5ioYW3ZAsbSyWI6Pv1P/view$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Turu o Terrivel [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UBrKSdf-EEYfqNpRrVpnpbxcnNaBBUKb/view$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Vulcao do Dr Zin [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qGMdUhEjAGgNy9S_6vNPIEkoJ7qWoH8B/view$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Lobisomem [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eFsER4NWUSuj5KxcwXO4ngNssMEgmsF7/view$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Piratas Submarinos[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EuAdTI1Zc0pA_HZK-hJH-j7CvZ8Pp_9A/view$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Rapto[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18mzENKH0Va27PkpvjvlYVB34AJkh1IQB/view$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Monstro Invisivel [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ryTUALQgaTH1Ax_U0SKTyM87aC9jW3wN/view$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Africa Misteriosa [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jktl-XUD6vXu0RIk_5TIowUrX7hAOJ3J/view$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lagoa Envenenada [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ev69MfRX99Np5awVV0IiMVeEFsHgyTEN/view$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Casa dos Sete Gargulas [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yEywEzbWL1hQppnFujXiPxN7u73KBFTv/view$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ilha do Terror [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15bNTJRYiVeRxjHxSuOqgLVPcjsGqdOQO/view$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Abominavel Homem das Neves [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19mFXY0phzWb-7iv1aPVBJpp_M-BxxqK7/view$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Monstro do Mar de Java [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Acompanhe as aventuras de um garoto de dez anos que, junto com o seu pai cientista e um grupo de amigos, viaja em missões secretas à serviço do governo americano, resolvendo diversos mistérios.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Jonny Quest - The Real Adventures[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os desenhos Jonny Quest - The Real Adventures no G DRIVE</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jonny Quest - The Real Adventures[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DF-DIlAiy3I</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jonny Quest - The Real Adventures - T01 - 1996 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XpazZ11LQrdsIQArehpi_K_6fDwX7-Bg/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fantasmas das Profundezas[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gOLDKQUjDdWSFre4w0dGDGIuTuafWA9P/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fuga para o Mundo Quest[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jrkdFR-BcdCAxszS0iQ0fd50u9QJGr2s/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Reino do Condor[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1N1rvCiK63JQ-n3WbEjBX2wBk6nHqmIG1/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Formula do Juizo Final[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vkQum_rFFnb1if16O2LQ3qlPs58Sqn_m/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ultima Viagem de Dovu[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16EY-kXLkEMCDDrt0C2T39qInLaV2Z2uW/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Carniceiro de Manhattan[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LRaGyBcUAILuUIFih9HLXMdcuinWsM50/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Leste de Zanzibar[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LqfEdhzWSA-H20nOhsDK4F2PLIYjlDe8/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Conquista do Mundo Quest[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JEI0Rp9V8DUQ7fYRL4ccj7nR3ZjNuGSu/view$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Vinganca de Ezequiel Furia[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18aMRBAzHRie6KlXPLQyOcSZ1Vi33MBYW/view$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Alienigena em Washington[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pQOCApyS4mfGzuxGkrtAs1LeQDpnI2E4/view$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Volta dos Anasazi[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cVRevzJjrdwrCEZKWQdzZnxCrkWFYW1m/view$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Alquimista[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/192ns2uxRW1swQ7zQ70WqrVGx84XEwX28/view$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perigo Virtual[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Jonny Quest, Hadji Singh, e Jessie Bannon enquanto acompanhavam o Dr. Benton e guarda-costas da Raça Quest Bannon para investigarem estranhos fenômenos, lendas e mistérios em locais exóticos. Ação também acontece na esfera virtual de QuestWorld, um domínio ciberespaço tridimensional renderizada com animação de computador. </info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de TinTin[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/GHL8VYJ/aventurastintin-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção As Aventuras de TinTin</info>
+<genre>DESENHOS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] As Aventuras de TinTin[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/GHL8VYJ/aventurastintin-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os desenhos As Aventuras de TinTin no G DRIVE</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de TinTin[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0n5Jy_2hCro</link>
+<thumbnail>https://i.ibb.co/GHL8VYJ/aventurastintin-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de TinTin - T01 - 1991 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mnoOZZgkbMznIi4IdxJIQO3FesTAHIdK/view$$lsname=[COLOR lime]T01E01- O Caranguejo das Tenazes de Ouro - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A9IjdmJtZ4LLG4KfmgaaIUrUt1O49ggy/view$$lsname=[COLOR lime]T01E02 - O Caranguejo das Tenazes de Ouro - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15IBHc4DnX1lXB_YMpOLYeNDEqxu0opYj/view$$lsname=[COLOR lime]T01E03 - O Segredo do Licorne - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f52KG4pmMhph-AIEiByWOz_vHanKKwju/view$$lsname=[COLOR lime]T01E04 - O Segredo do Licorne - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dZfd1YYXHvwHNGjC0G_Qx7LAeIRWtIIt/view$$lsname=[COLOR lime]T01E05 - O Tesouro de Rackham o Terrivel[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iQoubvzlsb7Llut-9hOBDPuXHMlNtb3q/view$$lsname=[COLOR lime]T01E06 - Os Charutos do Farao - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sMwBNDMQA8fhEuivrUezqaDd9OB_MTJT/view$$lsname=[COLOR lime]T01E07 - Os Charutos do Farao - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/124rbIsg9Tjkrup37PtAeMfycDHMMZE1n/view$$lsname=[COLOR lime]T01E08 - O Lotus Azul - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VPI2B8WHAPI3sD1pwxHKAtfNitI06ArE/view$$lsname=[COLOR lime]T01E09 - O Lotus Azul - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rMH28qboNjUrStzFXBrlzmlEKYuINsDu/view$$lsname=[COLOR lime]T01E10 - A Ilha Negra - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hl1sM6zLVeUX4oATORzNyWDX_Qyv5UH_/view$$lsname=[COLOR lime]T01E11 - A Ilha Negra - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iWQD2_hfiXN2RaFx2b4aayARYSjrD2ze/view$$lsname=[COLOR lime]T01E12 - O Caso Girassol -1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eBgc4R8oFIkMHll3amTImKOIUPQr0-X1/view$$lsname=[COLOR lime]T01E13 - O Caso Girassol -2[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/GHL8VYJ/aventurastintin-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Tintim é um jovem repórter que viaja o mundo em busca de aventuras enfrentando perigos e desvendando mistérios.[21] Quase todas as aventuras retratam Tintim trabalhando, empenhado em suas investigações jornalísticas. </info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de TinTin - T02 - 1991 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mnoOZZgkbMznIi4IdxJIQO3FesTAHIdK/view$$lsname=[COLOR lime]T02EP01- A Estrela Misteriosa[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A9IjdmJtZ4LLG4KfmgaaIUrUt1O49ggy/view$$lsname=[COLOR lime]T02EP02 - O Idolo Roubado - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15IBHc4DnX1lXB_YMpOLYeNDEqxu0opYj/view$$lsname=[COLOR lime]T02EP03 - O Idolo Roubado - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f52KG4pmMhph-AIEiByWOz_vHanKKwju/view$$lsname=[COLOR lime]T02EP04 - O Cetro de Ottokar - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dZfd1YYXHvwHNGjC0G_Qx7LAeIRWtIIt/view$$lsname=[COLOR lime]T02EP05 - O Cetro de Ottokar - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iQoubvzlsb7Llut-9hOBDPuXHMlNtb3q/view$$lsname=[COLOR lime]T02EP06 - Tintim no Tibete - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sMwBNDMQA8fhEuivrUezqaDd9OB_MTJT/view$$lsname=[COLOR lime]T02EP07 - Tintim no Tibete - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/124rbIsg9Tjkrup37PtAeMfycDHMMZE1n/view$$lsname=[COLOR lime]T02EP08 - Tintin e os TImpanos - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VPI2B8WHAPI3sD1pwxHKAtfNitI06ArE/view$$lsname=[COLOR lime]T02EP09 - Tintin e os TImpanos - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rMH28qboNjUrStzFXBrlzmlEKYuINsDu/view$$lsname=[COLOR lime]T02EP10 - Tintim no Pais do Ouro Negro - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hl1sM6zLVeUX4oATORzNyWDX_Qyv5UH_/view$$lsname=[COLOR lime]T02EP11 - Tintim no Pais do Ouro Negro - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iWQD2_hfiXN2RaFx2b4aayARYSjrD2ze/view$$lsname=[COLOR lime]T02EP12 - Voo 714 para Sydney - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eBgc4R8oFIkMHll3amTImKOIUPQr0-X1/view$$lsname=[COLOR lime]T02EP13 - Voo 714 para Sydney - 2[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/GHL8VYJ/aventurastintin-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Tintim é um jovem repórter que viaja o mundo em busca de aventuras enfrentando perigos e desvendando mistérios.[21] Quase todas as aventuras retratam Tintim trabalhando, empenhado em suas investigações jornalísticas. </info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de TinTin - T03 - 1991 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x0zbB3Vm8m1o21RbHmn17-KYqQBSUVhp/view$$lsname=[COLOR lime]T03E01- Perdidos no Mar - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/197FIt8Pug8tZdCVtaFU3reXxItE7jl5-/view$$lsname=[COLOR lime]T03E02 - Perdidos no Mar - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BNALMXmtpOy5Z8879qjV3JqN2TXVI7-T/view$$lsname=[COLOR lime]T03E03 - As Sete Bolas de Cristal -1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PdCGml668GhPZAjN5_8D3rKSjKqlO2Uf/view$$lsname=[COLOR lime]T03E04 - As Sete Bolas de Cristal -2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yJF3VPbOd7WOnpNeqdaqhWQKXmO6pk4A/view$$lsname=[COLOR lime]T03E05 - O Templo do Sol - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DdJkKB0LligAWhlBYeQNlWCNxxK-teQv/view$$lsname=[COLOR lime]T03E06 - O Templo do Sol - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lJWMVDQ3JqJTdTrR9q3wTGQeJ9muNdhk/view$$lsname=[COLOR lime]T03E07 - As Joias de Castafiore - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/178SOCid8t08fsu_Gdvj_FiBG_y6hSKF1/view$$lsname=[COLOR lime]T03E08 - As Joias de Castafiore - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UbzVn5ZMK69gSksfYEfk4qCA_RfoYSVL/view$$lsname=[COLOR lime]T03E09 - Rumo a Lua - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s7NsKwY6ejPSxeC-R1caRX2qjhzRqXPm/view$$lsname=[COLOR lime]T03E10 - Rumo a Lua - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1amarA91gD2tWfrd_NvFfK1LFsD4LvN1n/view$$lsname=[COLOR lime]T03E11 - Explorando a Lua - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VHfX8Q6AcUhywyhhpLzuemfggA_ZRGAp/view$$lsname=[COLOR lime]T03E12 - Explorando a Lua - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mxlz2y8AeArcbnjPLfZ2-DD5lMa0laZg/view$$lsname=[COLOR lime]T03E13 - Tintim na America[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/GHL8VYJ/aventurastintin-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Tintim é um jovem repórter que viaja o mundo em busca de aventuras enfrentando perigos e desvendando mistérios.[21] Quase todas as aventuras retratam Tintim trabalhando, empenhado em suas investigações jornalísticas. </info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corrida Maluca[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/s5JhQ7d/corridamaluca-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Corrida Maluca</info>
+<genre>DESENHOS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Corrida Maluca[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/s5JhQ7d/corridamaluca-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os desenhos da Corrida Maluca no G DRIVE</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corrida Maluca[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9aQntZfdU4o</link>
+<thumbnail>https://i.ibb.co/s5JhQ7d/corridamaluca-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corrida Maluca - 1968 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ntVbzriDy87qfpAhmICiONfMgkGX9iQ9/view$$lsname=[COLOR lime]T00E01 - Grande Premio Arkansas[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uK8mMQuuAZAUDB4oJAY9obWOEGuCbxrC/view$$lsname=[COLOR lime]T00E02 - Destino Cidade Fantasma[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K-nSe_Zdae7RoS3FXFS9rOpc8Fevjxug/view$$lsname=[COLOR lime]T00E03 - O Grande Premio Wyoming[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UL81APmEADsRbaWslUJ7HnQZkDc2RSxB/view$$lsname=[COLOR lime]T00E04 - O Grande Premio Yellow Rock[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ihYQ2wvZsV7Ksh44sS3wVZAbfQH7XFc1/view$$lsname=[COLOR lime]T00E05 - O Grande Premio Missouri[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T-6asUJSCTwK1ywjgDvbHrF-qqJUpmtJ/view$$lsname=[COLOR lime]T00E06 - O Grande Premio Idaho[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AdxLQSgD6ETa3Iw_oE11KDBcc9TWwnAc/view$$lsname=[COLOR lime]T00E07 - O Grande Premio Baja Ha-Ha[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S1qiZaAHFx3uyg7pPW22-hNS7bn_LhGZ/view$$lsname=[COLOR lime]T00E08 - Um Gorila na Corrida[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16cvNLh-p6CgsrNOD87StfgDCoP5XSX8t/view$$lsname=[COLOR lime]T00E09 - O Grande Premio Bem no Coracao[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hkjvbMmh6y4ezi-Zs9t9nMLDQ81mjocF/view$$lsname=[COLOR lime]T00E10 - O Grande Premio Virginia[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r3J2-8HNbsDd3wYBKn1BsGA4k7Mx2za4/view$$lsname=[COLOR lime]T00E011 - O Grande Premio Altos e Baixos[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RN6PJVzFr-Wh969QSUh_1fa9JofIUJX4/view$$lsname=[COLOR lime]T00E12 - A Toda Velocidade para Arkansas[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dXlkg_3LsSNEWuwfIZPUufRkLqsemrRK/view$$lsname=[COLOR lime]T00E13 - O Grande Premio Mississippi[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cTUPcubjHlO8MFg4unFmjJHy5DVUHbWB/view$$lsname=[COLOR lime]T00E14 - O Grande Premio Alabama[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VhQ1wUqThH7wmjTBjS8uIp6Ud0i4LUZy/view$$lsname=[COLOR lime]T00E15 - Corrida Quente em Chillicothe[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Alrz6CzGQv5rAAvxVUT4aPj5udzeBCC/view$$lsname=[COLOR lime]T00E16 - O Grande Premio A Estrada Nao Era Essa[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1twOe_1OaLHR4Wa4rDdpZd4GpvvE_q-_k/view?$$lsname=[COLOR lime]T00E17 - O Grande Premio Rhode Island[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zGf-B67EIMH6RyH4mVX1lC9T6uIr15H9/view$$lsname=[COLOR lime]T00E18 - O Grande Premio Polo Norte[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MqFBJdyjLp1O2UXhHoHO1598bmJioZSg/view$$lsname=[COLOR lime]T00E19 - O Grande Premio Vale Tudo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JwXu1R29kOC0tYlORGUFBLuUlbbdRqBr/view$$lsname=[COLOR lime]T00E20 - O Grande Premio Texas[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L3jvfvoQGwS3Ce7H10t67I3VmVWCwGbU/view$$lsname=[COLOR lime]T00E21 - O Grande Premio de Washington[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i5bb3iss-2fdp0yVNyHAk1HwdMcrsoUR/view$$lsname=[COLOR lime]T00E22 - O Grande Premio do Deserto[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UT3QA2MzmbJlD1pWYJVxHyh3lpCEKxb5/view$$lsname=[COLOR lime]T00E023 - O Grande Premio Uni-Duni-Te[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EmzVzebdG9o0BcsamSQW2Gm_c0j8TPzz/view$$lsname=[COLOR lime]T00E24 - O Grande Premio do Pantano[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15Wu90yM_6DUAj6rN8hd9AL_dt_yILn5H/view$$lsname=[COLOR lime]T00E25 - O Grande Premio Dakota[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sS_GwMmN1Otc0TDMStu9tV6zjGZiM_47/view$$lsname=[COLOR lime]T00E026 - O Grande Premio Delaware[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18uuu3EI5ETVDGKBPOzuUJZV5mjt4NjnM/view$$lsname=[COLOR lime]T00E27 - O Grande Premio de Jollywood[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1szBzU8UcJ7wnI5PpCFSxtB1quigFjv1M/view$$lsname=[COLOR lime]T00E28 - O Grande Premio Raleigh[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-mrJL75T4T63-a_1WSYIPwgwJCxQG0E-/view$$lsname=[COLOR lime]T00E29 - O Grande Premio Pennsylvania[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NLIFZQPSQRKzCbRkGDYWlZCTpHbXdy2m/view$$lsname=[COLOR lime]T00E30 - O Grande Premio Hackensack[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qN5k9FNo0VIHKI4SiA5VK3ZoEKEOztIU/view$$lsname=[COLOR lime]T00E31 - O Grande Premio Idaho[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_EgphZHA3sp-UessY6qN6bJ4lG-vfnAw/view$$lsname=[COLOR lime]T00E32 - O Grande Premio Florida[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1n98TnMmmIufoZXWzjiIFlLMEeDRClBEa/view$$lsname=[COLOR lime]T00E33 - O Grande Premio Racine[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RgDg5xWm_BNVRlaL9J9Wn60cAf2GnOfO/view$$lsname=[COLOR lime]T00E34 - O Grande Premio Carlsbad[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/s5JhQ7d/corridamaluca-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Dez pilotos disputam corridas pelo país em seus carros malucos e cheios de estilo. O corredor Dick Vigarista está sempre pronto para passar seus adversários para trás, mas seu orgulho acaba atrapalhando até mesmo suas trapaças.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Manda Chuva[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/njc6SKV/mandachuvai-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O GATO MAIS AMLANDRO EM SUAS ATRAPALHADAS ARMAÇÕES</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Manda Chuva - O Filme[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/3yxCSPQ/mandachuvafilm-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui Manda Chuva - O Filme</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Manda Chuva - O Filme[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KQ-cgWokwP4</link>
+<thumbnail>https://i.ibb.co/3yxCSPQ/mandachuvafilm-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Manda-chuva e sua gangue vão enfrentar um novo chefe de polícia que não está nem um pouco feliz com o que a turma tem aprontada. Lucas Boa Pinta, o novo comissãrio, tem um arsenal tecnológico a seu serviço e vai tentar se apoderar da cidade, impondo leis absurdas. Será a vez da turma de Manda-chuva entrar em ação.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Manda Chuva - O Filme - 2011 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YyMNZR-3OEp_CZF_XSdxSb8DgQBYMZGs/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] Manda Chuva - O Filme - Dublado[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=IZtIhAsMm1c$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] Manda Chuva - O Filme - Dublado[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/3yxCSPQ/mandachuvafilm-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Manda-chuva e sua gangue vão enfrentar um novo chefe de polícia que não está nem um pouco feliz com o que a turma tem aprontada. Lucas Boa Pinta, o novo comissãrio, tem um arsenal tecnológico a seu serviço e vai tentar se apoderar da cidade, impondo leis absurdas. Será a vez da turma de Manda-chuva entrar em ação.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Turma do Manda Chuva[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/dMwHbp5/mandachuva-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui A Turma do Manda Chuva </info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Turma do Manda Chuva[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YP1QUgW9AJU</link>
+<thumbnail>https://i.ibb.co/dMwHbp5/mandachuva-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Manda-Chuva é o líder de uma gangue de gatos de rua: Bacana, Espeto, Batatinha, Gênio e Chu-Chu. Eles estão sempre tentando ganhar dinheiro por meio de algum golpe ilegal e são perseguidos pelo Guarda Belo, que tenta expulsá-los do beco onde vivem.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Turma do Manda Chuva - 2016 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ETsG9GJlb18-PBhSyTIaLH6hEyRQfm77/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Havai: a turma vem ai[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d1raMN2XgcWHuOFjIzpxm9qBjmmd4k-i/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] O opulento maraja[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QG14HIuko4kdPWHGltQCMm2dmELPidXt/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Jazz infernal[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DwZTZJPbnFIR3ImKLC0lVEmA-yfl0khP/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Corridas e correrias[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jlRvctsq5TO4Vqw3uXsUpp1WiGmwfT80/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Arranhador de violinos[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pjgIV6ToSaRdaerIrSPHy2e7rMJmkNHJ/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Testamento de um excentrico[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ex7VzO5pVQV0gQ4iz9oHszOuNqM0hpFE/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Amor a quanto me levas[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10O8hVzgPSFF00gCSsQMB4BS-5EauFFdu/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Meu filho meu orgulho[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ryA8npgKMc2Ope6pbdUg9l5du6tkDc9K/view$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Um filme realista[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OsCLuB3ViDP39yy2Ginwxk8SidDOHnnh/view$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Que rei sou eu[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NkZtrL8NVlvgxk3ojuEJ8yqmkEyxklDs/view$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Quando o coracao dispara[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KMk8UvscFSmbvdTh2OMJ4J_7Zzq7vJQ6/view$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Um diamante a todo preco[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18wIUAF_4pkjQ-oifsfYTf_tBrMUcJdkn/view$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] Um presente passado[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KKJYPTN4yrK7HLOxmA2SfIJerW6Z0GPf/view$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] Chequemate[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1spqDFqHnGgIs8OYpihT87SBFsgP1ax-0/view$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] Inverno um tanto quente[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11lzMgX6f3vmfscAacbixQwwYBi5H8Y9r/view$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] Um menor entre os maiores[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mzSbWSevmTShHJla29b36vRGPQPHcVoA/view$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] A mascote do convescote[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KtuQYPdprmqoXRDKCmbbQJfqPsTy55AD/view$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] Reformadores conservadores[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Anae6Ru604CoEHHRRoH9r5Soce2UoKd9/view$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] Turistas e vigaristas[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XvWt1-hXHwep2-xxVqeGJdgh48fmEBKp/view$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] Arte e artes[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NOWMXaiheJtd2Ax5khQXE1npzHH-NJj2/view$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime] O involuntario do espaco[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FG1OwbeLWl1fq8LznDwfVNXyPML28nAu/view$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime] O finado manda-chuva[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qBfa9aLnf-BP4eiFqlwGNlZ4--UzQcJA/view$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime] Parabens para voce[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PzKnqaOEjn7xqspUp6ZuSfsTC_vn41oc/view$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime] Alguem esta caduco[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14c_VqJdz2WJoe-DQpM3aNbtZnFeoOjt4/view$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime] Rei Por um Dia[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-nds-r1R_s1avr1ExBrZqysT6x_Xq81U/view$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Sentenciado[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WE2obVcXhwCbovg9Kt3RZTwbaSBgEepI/view$$lsname=[B]T01E27[/B][COLOR yellow] ->[/COLOR][COLOR lime] Batendo o Record[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L8PNICVcPrE4bUdHS8UJv2QR74e7OdPc/view$$lsname=[B]T01E28[/B][COLOR yellow] ->[/COLOR][COLOR lime] Contando Vantagem[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h6N9CkJtGZLyL9tSV4qc5b9NLYzzoFsL/view$$lsname=[B]T01E29[/B][COLOR yellow] ->[/COLOR][COLOR lime] Turma Atrapalhada[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S6jUXdBu0G3GVFfUynLrfY5bTuFX8mgx/view$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eu e o Outro[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/dMwHbp5/mandachuva-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Manda-Chuva é o líder de uma gangue de gatos de rua: Bacana, Espeto, Batatinha, Gênio e Chu-Chu. Eles estão sempre tentando ganhar dinheiro por meio de algum golpe ilegal e são perseguidos pelo Guarda Belo, que tenta expulsá-los do beco onde vivem.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herculoids[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Os Herculoids</info>
+<genre>DESENHOS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Os Herculoids[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/dMwHbp5/mandachuva-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui Os Herculoids</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herculoids[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4ByzkN2jpgQ</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O desenho foi lançado em setembro de 1967, com apenas 36 episódios. Teve um remake em 1981, com 11 episódios. A trama contava as aventuras de uma família em um planeta selvagem, composta por Zandor e a esposa Tara, com o filho pré-adolescente Dorno.</info>
+<genre>DESENHOS </genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herculoids - T01 - 1967 - SD - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t5WKfcxRGxEVTp_dnxFk-N4ikNL1Y51p/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Piratas[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14faNUJOPD4pb7KqIua3bk0Sex4z3xSG3/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Homens Aranha[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KkgcTN8HURrgNFDV8iVc0by4Ff8tzoUx/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Robos de Mekkor[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ad5u5RHiTkv1Rm0ZkXbWMkEl_4NUjR14/view$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Dorgayde Perdido[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Cvg4G4uxHtcWaEgnGcZSfGZzqvdI2NoL/view$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Formigas Destruidoras[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HzI3f4tfQ9ROwfUX1-WAVuwdrKpJtuha/view$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Derrota de Ogron[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hJ3etr0lX97jBGiY0SPiR0x-xlfyucGm/view$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Androides[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LDnp3d9D0sUfE8cXltGtFZRvufpCwaoq/view$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Templo de Trax[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Juy9zSjDjKMC5HKXaxvdxGcAu2zTLTzm/view$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Monstro do Pantano[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13X2aJfxoscNkGAtVG-78T39OSgTjpMP_/view$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Minusculo Reino de Yok[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aBXv_ClVVkkexAOm4_UYl7tjUUQgTOYJ/view$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Prisioneiros dos Homens Bolhas[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11njuN0yMsYxyjyxsp-NO2orT4dgEdW2B/view$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Gladiadores de Kyanite[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1goB_W8CzaUR5kn-ZOSOlard800_uxda5/view$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mekanno A Maquina Mestre[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_RBy5y94Vmlto7jSij9YtoaPwq86YLif/view$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Missao dos Amatons[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1R_SVCqvbigd5adwsYJ-bOmieiWF79cpr/view$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ilha da Gravidade[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1j_rOpX8IgAxvi0ZP-yHJ2whOtahgXb85/view$$lsname=[B]T01E33[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Antidoto[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DL3N494xrIWUI2PujYlsxVYYWx7GUR-5/view$$lsname=[B]T01E34[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ataque do Espaco[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14vnrKZvyW6inK9btFoLVERurlEeBvFEE/view$$lsname=[B]T01E35[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Mutoides[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YG7VW6VhACBzuVhvF6h3CtYNFTmaDbPa/view$$lsname=[B]T01E36[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Homens de Cristal[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O desenho foi lançado em setembro de 1967, com apenas 36 episódios. Teve um remake em 1981, com 11 episódios. A trama contava as aventuras de uma família em um planeta selvagem, composta por Zandor e a esposa Tara, com o filho pré-adolescente Dorno.</info>
+<genre>DESENHOS </genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
