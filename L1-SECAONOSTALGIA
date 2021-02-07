@@ -21,6 +21,42 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  FILMES ANTIGOS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/TvcW7J7/filmesantigos-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Basta torcer o nariz para Samantha usar seus poderes de bruxa. O problema é que seu marido, o publicitário James, quer que ela seja uma esposa normal e ignore sua mágica.</info>
+<genre>COMÉDIA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Canhões para Córdoba - 1970 - Dublado[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=G5Z0d-NCc-M$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Canhoes para Cordoba[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zOPO3K7DvaD_63BjJUEOJ6rpdo8SJiOl/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] Canhoes para Cordoba - Dublado[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/4wyf4Rd/paleridericon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Bandidos a serviço de um homem poderoso que quer controlar o ouro na cidade californiana de Lahood aterrorizam um acampamento de mineradores e matam o cãozinho de Maggie Wheeler. As preces da jovem por um milagre são logo atendidas quando um forasteiro misterioso aparece e salva o líder dos trabalhadores de um novo ataque. O justiceiro no cavalo branco, habilidoso com o revólver Remington 1858 e utilizando vestes religiosas, começa a ser chamado de Pregador.</info>
+<genre>WESTERN</genre>
+</item
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 44 Minutos - 2003 - Dublado[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=XJ13i7QShl8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 44 Minutos[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vtl3VCG76yY77ibPZs9Gno2aW8fnwAni/view</link>
+
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLGRr_vPpvZhGXo1v9FJS1uRAmxuyzL8hg9Wm2sAoKJjDDGno</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Dois assaltantes invadem um banco em North Hollywood, nos Estados Unidos, equipados com uniforme militar completo, coletes a prova de balas e portando poderosos rifles AK-47. Para aumentar o pânico e completar o clima de tensão, a dupla começa a disparar tiros contra a multidão e policiais que do lado de fora tentavam contornar o conflito, revelando a bravura de dezenas de oficiais da lei dispostos a impedir um terrível massacre de inocentes.</info>
+<genre>CRIME E DRAMA</genre>
+</item
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SERVER LS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  FILMES ANTIGAS[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/TvcW7J7/filmesantigos-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -271,41 +307,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channels></channels>
-<channel>
-<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  FILMES ANTIGOS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/TvcW7J7/filmesantigos-pasta.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Basta torcer o nariz para Samantha usar seus poderes de bruxa. O problema é que seu marido, o publicitário James, quer que ela seja uma esposa normal e ignore sua mágica.</info>
-<genre>COMÉDIA</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Canhões para Córdoba - 1970 - Dublado[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=G5Z0d-NCc-M$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Canhoes para Cordoba[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zOPO3K7DvaD_63BjJUEOJ6rpdo8SJiOl/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] Canhoes para Cordoba - Dublado[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/4wyf4Rd/paleridericon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Bandidos a serviço de um homem poderoso que quer controlar o ouro na cidade californiana de Lahood aterrorizam um acampamento de mineradores e matam o cãozinho de Maggie Wheeler. As preces da jovem por um milagre são logo atendidas quando um forasteiro misterioso aparece e salva o líder dos trabalhadores de um novo ataque. O justiceiro no cavalo branco, habilidoso com o revólver Remington 1858 e utilizando vestes religiosas, começa a ser chamado de Pregador.</info>
-<genre>WESTERN</genre>
-</item
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 44 Minutos - 2003 - Dublado[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=XJ13i7QShl8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 44 Minutos[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vtl3VCG76yY77ibPZs9Gno2aW8fnwAni/view</link>
-
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLGRr_vPpvZhGXo1v9FJS1uRAmxuyzL8hg9Wm2sAoKJjDDGno</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Dois assaltantes invadem um banco em North Hollywood, nos Estados Unidos, equipados com uniforme militar completo, coletes a prova de balas e portando poderosos rifles AK-47. Para aumentar o pânico e completar o clima de tensão, a dupla começa a disparar tiros contra a multidão e policiais que do lado de fora tentavam contornar o conflito, revelando a bravura de dezenas de oficiais da lei dispostos a impedir um terrível massacre de inocentes.</info>
-<genre>CRIME E DRAMA</genre>
-</item
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
