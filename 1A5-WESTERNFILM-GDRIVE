@@ -1,0 +1,65 @@
+
+
+
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR blue][B] FILMES DE WESTERN NO G DRIVE[/B][/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/ch4dDQN/sub-cat-western.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE WESTERN NO G DRIVE ESTÃO AQUI</info>
+<genre>WESTERN</genre> 
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ <channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lei do Mais Valente[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme A Lei do Mais Valente</info>
+<genre>WESTERN</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Lei do Mais Valente[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o Filme A Lei do Mais Valente no G DRIVE</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lei do Mais Valente[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RfjlD-dpnig</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>WESTERN</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lei do Mais Valente - 1959 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sqe8K21MzMrohd3UzjckvMumTVgmiKT3/view</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um soldado caçador Que faz amizade com as tribos Indígenas norte-americanas em seu Território de caça. Sua amizade com Os Índios Sioux é fortalecida quando ele salva a vida de seu cacique, mas quando a Cavalaria dos Eua é atacada pelos Índios, Ele fica dividido entre suas amizades e lealdade ao seu País. As Tropas são abatidas pelos Sioux, mas Kelly resgata Wahleeah (Andra Martin), uma garota Índia Apache que está sendo mantida prisioneira pelos sioux porque ela se recusa á casar com seu cacique. Agora, em nome de sua honra, ele terá que enfrentar toda uma nação Indígena.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
