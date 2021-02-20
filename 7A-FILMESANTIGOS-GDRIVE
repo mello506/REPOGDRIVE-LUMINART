@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mais Longo dos Dias[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/xCBxyHk/longestday-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Filme O Mais Longo dos Dias</info>
 <genre>GUERRA</genre>
@@ -31,7 +31,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Mais Longo dos Dias[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://apaixonadosporhistoria.com.br/img/filmecapa/filme_377_1185272448.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/xCBxyHk/longestday-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui o Filme O Mais Longo dos Dias no G DRIVE</info>
 <genre>GUERRA</genre>
@@ -41,7 +41,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mais Longo dos Dias[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=AbOv1cpY7T4</link>
-<thumbnail>https://apaixonadosporhistoria.com.br/img/filmecapa/filme_377_1185272448.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/xCBxyHk/longestday-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
 <genre>GUERRA</genre>  
@@ -51,7 +51,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mais Longo dos Dias - 1962 - Dublado[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pxWTHVwwg_IHyzSzNhTcAJtcGuur6Gbr/view?usp=sharing</link>
-<thumbnail>https://apaixonadosporhistoria.com.br/img/filmecapa/filme_377_1185272448.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/xCBxyHk/longestday-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Em 1944, o Exército dos Estados Unidos e as forças aliadas planejam uma enorme invasão na Normandia, França. Apesar do mau tempo, o general Eisenhower dá permissão para os aliados entrarem na Normandia. O general Norma Cota viaja com seus homens para a praia de Omaha. Com muito esforço e vidas perdidas eles saem da praia e entram em território francês. O exército alemão, devido à arrogância e ignorância, atrasa sua resposta para o desembarque dos aliados com resultados incapacitantes.</info>
 <genre>GUERRA</genre>  
