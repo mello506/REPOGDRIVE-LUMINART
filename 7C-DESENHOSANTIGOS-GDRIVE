@@ -21,7 +21,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herculoids[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herculoids[/B][/COLOR]</name>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Os Herculoids</info>
@@ -49,7 +49,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herculoids - T01 - 1967 - SD - Dublado[/B][/COLOR]</title>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herculoids - T01 - 1967 - SD - Dublado[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t5WKfcxRGxEVTp_dnxFk-N4ikNL1Y51p/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Piratas[/B][/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14faNUJOPD4pb7KqIua3bk0Sex4z3xSG3/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Homens Aranha[/B][/COLOR]</link>
